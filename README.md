@@ -2,7 +2,7 @@
 
 CineTrack is a sleek and modern web application for discovering, tracking, and organizing movies and TV shows. Built with vanilla JavaScript and powered by the TMDb API, it provides a dynamic and interactive experience for managing your personal media library.
 
-![CineTrack Screenshot](https://i.imgur.com/your-screenshot-url.png) ---
+![Live Demo here](https://trackyourshows.netlify.app/) ---
 
 ## ✨ Features
 
